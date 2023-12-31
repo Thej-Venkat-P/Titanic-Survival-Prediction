@@ -28,4 +28,4 @@ It will show the Predicted Survival of the passengers on the Titanic Test Datase
 
 ## License
 
-This project uses the following license: `MIT`.
+This project uses the following license: `MIT License`.
